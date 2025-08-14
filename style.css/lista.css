@@ -241,3 +241,369 @@ body{
     border: 1px solid var(--cinza);
     background-color: var(--cor-terciaria);
 }
+
+.jogos__lista__divisao__5{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__5__jogo{
+    padding: 29px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__5__versao{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__5__NTSCJ__nao{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
+}
+
+.jogos__lista__divisao__5__NTSCU__sim{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__5__PAL__talvez{
+    padding: 21px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--rosa);
+}
+
+.jogos__lista__divisao__6{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__6__jogo{
+    padding: 29px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__6__versao{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__6__NTSCJ__sim{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__6__NTSCU__sim{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__6__PAL__sim{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__7{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__7__jogo{
+    padding: 29px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__7__versao{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__7__NTSCJ__sim{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__7__NTSCU__talvez{
+    padding: 21px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--rosa);
+}
+
+.jogos__lista__divisao__7__PAL__sim{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__8{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__8__jogo{
+    padding: 29px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__8__versao{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__8__NTSCJ__sim{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__8__NTSCU__sim{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__8__PAL__nao{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
+}
+
+.jogos__lista__divisao__9{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__9__jogo{
+    padding: 29px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__9__versao{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__9__NTSCJ__sim{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__9__NTSCU__sim{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__9__PAL__sim{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__10{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__10__jogo{
+    padding: 29px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__10__PAL__nao{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
+}
+
+.jogos__lista__divisao__10__NTSCJ__talvez{
+    padding: 21px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--rosa);
+}
+
+.jogos__lista__divisao__10__NTSCU__nao{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
+}
+
+.jogos__lista__divisao__11{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__11__jogo{
+    padding: 31px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__11__versao{
+    padding: 47px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__11__NTSCJ__sim{
+    padding: 47px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__11__NTSCJ__nao{
+    padding: 47px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
+}
+
+.jogos__lista__divisao__11__NTSCJ__talvez{
+    padding: 39px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--rosa);
+}
+
+.jogos__lista__divisao__11__NTSCU__sim{
+    padding: 47px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__11__NTSCU__nao{
+    padding: 47px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
+}
+
+.jogos__lista__divisao__11__PAL__sim{
+    padding: 47px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__12{
+    display: grid;
+    grid-template-columns: 200px 100px 100px 100px 100px; 
+    align-items: center; 
+    justify-content: space-around;
+    text-align: center;
+    font-family: var(--fonte-principal);
+}
+
+.jogos__lista__divisao__12__jogo{
+    padding: 36px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__12__versao{
+    padding: 60px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    font-weight: 700;
+}
+
+.jogos__lista__divisao__12__NTSCJ__talvez{
+    padding: 52px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--rosa);
+}
+
+.jogos__lista__divisao__12__NTSCU__sim{
+    padding: 60px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__12__PAL__sim{
+    padding: 60px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
