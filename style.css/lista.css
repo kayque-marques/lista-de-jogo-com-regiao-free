@@ -147,6 +147,13 @@ body{
     background-color: var(--cor-terciaria);
 }
 
+.jogos__lista__divisao__2__NTSCU__talvez{
+    padding: 29px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--rosa);
+}
+
 .jogos__lista__divisao__2__PAL__talvez{
     padding: 29px 9px;
     text-align: center;
