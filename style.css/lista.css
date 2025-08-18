@@ -425,6 +425,13 @@ body{
     background-color: var(--vermelho);
 }
 
+.jogos__lista__divisao__8__PAL__sim{
+    padding: 37px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
 .jogos__lista__divisao__9{
     display: grid;
     grid-template-columns: 200px 100px 100px 100px 100px; 
@@ -594,6 +601,13 @@ body{
     font-weight: 700;
 }
 
+.jogos__lista__divisao__12__NTSCJ__sim{
+    padding: 60px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--cor-terciaria);
+}
+
 .jogos__lista__divisao__12__NTSCJ__talvez{
     padding: 52px 9px;
     text-align: center;
@@ -606,6 +620,13 @@ body{
     text-align: center;
     border: 1px solid var(--cinza);
     background-color: var(--cor-terciaria);
+}
+
+.jogos__lista__divisao__12__NTSCU__nao{
+    padding: 60px 9px;
+    text-align: center;
+    border: 1px solid var(--cinza);
+    background-color: var(--vermelho);
 }
 
 .jogos__lista__divisao__12__PAL__sim{
